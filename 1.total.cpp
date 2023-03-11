@@ -108,9 +108,9 @@ Robot grasping in clutter: using a hierarchy of supervisors for learning from de
 
 Li, J., Song, Y., & Xie, J. (2020). 3D object recognition for robotic grasping using point cloud analysis. Robotics and Computer-Integrated Manufacturing, 62, 101875.
 
-Patten, T., & Murray, D. (2020). Deep grasping: grasping in clutter with deep object recognition and affordance detection. Autonomous Robots, 44(6), 1067-1085.  **
+Patten, T., & Murray, D. (2020). Deep grasping: grasping in clutter with deep object recognition and affordance detection. Autonomous Robots, 44(6), 1067-1085.  
 
-Zhang, Y., Li, W., Zhang, Y., & Qi, Y. (2019). Robotic grasping in clutter: a review. Frontiers in Robotics and AI, 6, 43.                                       待读
+Zhang, Y., Li, W., Zhang, Y., & Qi, Y. (2019). Robotic grasping in clutter: a review. Frontiers in Robotics and AI, 6, 43.                                       
 
 Chen, Z., Yuan, S., Lei, J., & Liu, Y. (2021). A review of 3D object detection and grasping based on deep learning. Measurement, 176,
 
